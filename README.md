@@ -1,6 +1,5 @@
 - Hi, I’m Jamie Reid
-- I'm currently a Computer Science student at SUNY New Paltz
-- I'm currently working on developing my own software engineering company.
+- I hold a Bachelor of Computer Science from SUNY New Paltz
 - You can reach me at reid@sionnachsoftware.com
 
 <!---
